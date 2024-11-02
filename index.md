@@ -31,15 +31,15 @@ Tipuri de linkuri in Markdown:
 
 #### Linkurile referentiale 
 
-Iata un [] link [link1] catre site-ul Google.
+Iata un [link] [link1] catre site-ul Google.
 
 [link1]: https://www.google.com/
 
 Varianta prescurtata a linkurilor preferentiale:
 
-Iata un link [important] catre site-ulGoogle
+Iata un link [important] catre site-ul Google.
 
-[important]: https://www.google.com/
+[important] https://www.google.com/
 
 #### Linkuri catre imagini
 
