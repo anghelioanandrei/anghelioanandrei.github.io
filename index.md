@@ -15,7 +15,7 @@ Fisirele accesate prin linkuri pot fi:
 1. Gazduite pe alte servere (de exemplu accesarea unui alt site)
 2. Gazduite pe serverul site-ului curent
 
-De asemenea, prin aceste linkuri se pot accesa si sectiuni din pagina curenta sau sectiuni din alte pagini ale aceluiasi site
+De asemenea, prin aceste linkuri se pot accesa si sectiuni din pagina curenta sau sectiuni din alte pagini ale aceluiasi site.
 
 ### Sintaxa unui link Markdown
 
@@ -31,7 +31,7 @@ Tipuri de linkuri in Markdown:
 
 #### Linkurile referentiale 
 
-Iata un []link[] catre site-ul Google.
+Iata un []link[link1] catre site-ul Google.
 
 [link1]: https://www.google.com/
 
@@ -42,3 +42,5 @@ Iata un link [important] catre site-ulGoogle
 [important] https://www.google.com/
 
 #### Linkuri catre imagini
+
+![Text descriptiv Imagine](https://th.bing.com/th/id/OIP.a1CexLzdq5ogQ4qzji7CCgHaFx?rs=1&pid=ImgDetMain)
