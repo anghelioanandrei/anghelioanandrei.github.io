@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 # frozen_string_literal: false
 
-Gem::Specification.new do |s|
+Gem::Specification.new : do |s|
   s.name          = "jekyll-theme-architect"
   s.version       = "0.2.0"
   s.license       = "CC0-1.0"
