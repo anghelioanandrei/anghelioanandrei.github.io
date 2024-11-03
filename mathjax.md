@@ -50,7 +50,7 @@ $$ 10^{10} $$
 
 '\alpha' - alpha litera mica ($\alpha$)
 
-'\Alpha' - alpha litera mare $\(Alpha)$
+'\Alpha' - alpha litera mare ($\Alpha$)
 
 # Parantezele
 
