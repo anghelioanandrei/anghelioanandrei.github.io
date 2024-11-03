@@ -41,7 +41,7 @@ $$a_i=b^c$$
 
 # Gruparea elementelor din formule
 
-Elementele din formule se grupeaza prin meta-caracterele '{' si '}'
+Elementele din formule se grupeaza prin meta-caracterele '{'si'}'.
 
 $$ 10^{10} $$
 
