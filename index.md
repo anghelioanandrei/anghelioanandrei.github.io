@@ -7,6 +7,7 @@
 [Elemente avansate de Markdown](avansate.md)
 
 [Formule cu Mathjax](mathjax.md)
+
 ***
 
 ## Implememntarea relatiilor/legaturilor catre alte fisiere
