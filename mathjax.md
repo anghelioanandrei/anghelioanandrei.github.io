@@ -11,8 +11,7 @@
 
 Formulele 'Mathjax' sunt inserate in aceeasi linie daca sunt plasate intr-o pereche de simboluri '$'
 
-*Exemplu:* Aceasta este o ecuatie: 
-$a=bc$
+*Exemplu:* Aceasta este o ecuatie:                          $a=bc$
 
 Formulele 'Latex' (prin 'Mathjax') se introduc pe rand nou intre doua perechi de simboluri '$$'
 
@@ -49,15 +48,15 @@ $$ 10^{10} $$
 
 *Exemple:*
 
-'\alpha' - alpha litera mica ($\ alpha$)
+'\alpha' - alpha litera mica ($\alpha$)
 
-'\Alpha' - alpha litera mare ($\ Alpha$)
+'\Alpha' - alpha litera mare ($\Alpha$)
 
 # Parantezele
 
 - Parantezele rotunde se scriu direct (nu au un inteles special 'LaTex')
 - Parantezele drepte se scriu direct (nu au inteles special in 'LaTex')
-- Acoladele, deoarece ele sunt metacaractere de grupare, vor fi renderizate corect daca sunt 'escapate' de intelesul lor special, punand in fata lor 'metacaracterul' '\'.
+- Acoladele, deoarece ele sunt metacaractere de grupare, vor fi renderizate corect daca sunt 'escapate' de intelesul lor special, punand in fata lor 'metacaracterul' ' \ '.
 
   Exemple:
 
