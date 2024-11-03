@@ -41,7 +41,7 @@ $$a_i=b^c$$
 
 # Gruparea elementelor din formule
 
-Elementele din formule se grupeaza prin meta-caracterele '{'si'}'.
+Elementele din formule se grupeaza prin meta-caracterele '{' si '}'.
 
 $$ 10^{10} $$
 
@@ -49,15 +49,15 @@ $$ 10^{10} $$
 
 *Exemple:*
 
-'\alpha' - alpha litera mica ($\alpha$)
+'\alpha' - alpha litera mica ($\ alpha$)
 
-'\Alpha' - alpha litera mare ($\Alpha$)
+'\Alpha' - alpha litera mare ($\ Alpha$)
 
 # Parantezele
 
 - Parantezele rotunde se scriu direct (nu au un inteles special 'LaTex')
 - Parantezele drepte se scriu direct (nu au inteles special in 'LaTex')
-- Acoladele, deoarece ele sunt metacaractere de grupare, vor fi renderizate corect daca sunt 'escapate' de intelesul lor special, punand in fata lor 'metacaracterul' '\'
+- Acoladele, deoarece ele sunt metacaractere de grupare, vor fi renderizate corect daca sunt 'escapate' de intelesul lor special, punand in fata lor 'metacaracterul' '\'.
 
   Exemple:
 
