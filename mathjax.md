@@ -14,7 +14,7 @@ Formulele 'Mathjax' sunt inserate in aceeasi linie daca sunt plasate intr-o pere
 
 *Exemplu:* Aceasta este o ecuatie:
 
-$a=bc$
+                                                               $a=bc$
 
 
 Formulele 'Latex' (prin 'Mathjax') se introduc pe rand nou intre doua perechi de simboluri '$$'
