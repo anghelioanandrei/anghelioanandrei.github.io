@@ -12,9 +12,7 @@
 Formulele 'Mathjax' sunt inserate in aceeasi linie daca sunt plasate intr-o pereche de simboluri '$'
 
 
-*Exemplu:*  
-
-$a=bc$
+*Exemplu:* Aceasta este o ecuatie : $a=bc$
 
 Formulele 'Latex' (prin 'Mathjax') se introduc pe rand nou intre doua perechi de simboluri '$$'
 
@@ -53,7 +51,7 @@ $$ 10^{10} $$
 
 '\alpha' - alpha litera mica ($$\alpha$$)
 
-'\Alpha' - alpha litera mare ($$\Alpha$$)
+'\Alpha' - alpha litera mare ($$\ALPHA$$)
 
 # Parantezele
 
