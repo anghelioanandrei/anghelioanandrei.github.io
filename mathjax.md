@@ -13,6 +13,7 @@ Formulele 'Mathjax' sunt inserate in aceeasi linie daca sunt plasate intr-o pere
 
 
 *Exemplu:* Aceasta este o ecuatie:
+
 $a=bc$
 
 
