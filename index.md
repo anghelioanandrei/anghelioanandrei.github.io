@@ -40,7 +40,7 @@ Varianta prescurtata a linkurilor preferentiale:
 
 Iata un link [important] catre site-ul Google.
 
-[important] https://www.google.com/
+[important]: https://www.google.com/
 
 #### Linkuri catre imagini
 
