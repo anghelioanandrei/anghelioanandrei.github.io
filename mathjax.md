@@ -50,9 +50,9 @@ $$ 10^{10} $$
 
 *Exemple:*
 
-'\alpha' - alpha litera mica ($\alpha$)
+'\alpha' - alpha litera mica ($$\alpha$$)
 
-'\Alpha' - alpha litera mare ($\Alpha$)
+'\Alpha' - alpha litera mare ($$\Alpha$$)
 
 # Parantezele
 
